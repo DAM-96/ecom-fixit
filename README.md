@@ -34,7 +34,7 @@ DB_NAME='ecommerce_db'
   - Navigate to the base folder of the cloned repo
   - Run `npm start` for the server to start listening on port 3001
   - Open an API platform and make calls to any of the registered routes
-  - [![Video of usage](https://streamable.com/cv9xfy)](https://statics.streamable.com/static/site-image.png)]
+  - [![Video of usage](https://streamable.com/cv9xfy)](https://statics.streamable.com/static/site-image.png)
 
 
   ## Tests
