@@ -34,6 +34,7 @@ DB_NAME='ecommerce_db'
   - Navigate to the base folder of the cloned repo
   - Run `npm start` for the server to start listening on port 3001
   - Open an API platform and make calls to any of the registered routes
+  - ![Video of usage](./eCommerce%20Solutions%20%E2%80%93%20Update%20Tag%20Name%202022-05-08%2001-40-15.mp4)
 
 
   ## Tests
